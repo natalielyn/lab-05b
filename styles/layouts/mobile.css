@@ -1,0 +1,65 @@
+body {
+  max-width: 480px;
+}
+
+body * {
+  position: relative;
+  font-size: 25px;
+
+}
+
+#container {
+  max-width: 480px;
+  min-width: 400px;
+  
+}
+
+header {
+  width: 100%;
+  min-height: 75px;
+  background-color: #ed50ff;
+  border: 1px solid white;
+}
+
+.nav {
+  height: 150px;
+  width: 100%;
+  background-color: #dd56fd;
+  border: 1px solid white;
+}
+
+
+.featureC {
+  height: 125px;
+  width: 100%;
+  background-color: #cd4eff;
+  border: 1px solid white;
+}
+
+.featureD {
+ 
+  height: 125px;
+  width: 100%;
+  background-color: #bd4dff;
+  border: 1px solid white;
+}
+
+#content {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.box {
+  height: 250px;
+  width: 50%;
+  background-color: #ad4dff;
+  border: 1px solid white;
+}
+
+footer {
+  height: 80px;
+  width: 100%;
+  background-color: #7d35bb;
+  border: 1px solid white;
+}
