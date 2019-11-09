@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+}
+
+/* article, nav, aside, footer, section {
+  position: relative;
+  outline: 2px solid black;
+  color: black;
+} */
